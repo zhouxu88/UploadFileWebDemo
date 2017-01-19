@@ -1,4 +1,4 @@
-package com.bodhixu;
+package com.zx;
 
 public class ResultEntity {
 
